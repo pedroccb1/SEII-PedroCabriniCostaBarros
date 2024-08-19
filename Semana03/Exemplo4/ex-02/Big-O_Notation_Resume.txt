@@ -1,0 +1,25 @@
+Big-O Notation
+
+How efficient is your code? Classification O(...)
+
+O(1) - "Constant" Its a Cadillac
+- Assignment	var test =0;
+- Declarations	var test;
+- Arithmetic	2+2;
+- Comparision	2>1;
+- Acessing Element array[1];
+- Calling Function someFunction();
+
+O(N) - "Linear" Its a Civic
+- Think "for loop"
+- Number of inputs increase time
+
+int total=0 O(1)
+while(i<=10) O(N)
+
+- Take the bigger number
+
+O(N^2) - "Quadratic" So bad
+
+N LOG (N)
+Quick Sort, Merge Sort, Shell Sort, Cube Sort
