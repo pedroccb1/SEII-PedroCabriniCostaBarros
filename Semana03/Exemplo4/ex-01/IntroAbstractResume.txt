@@ -1,0 +1,19 @@
+-Fundamental Knowledge
+-.NET + C#
+-Classes
+-OOP
+
+Abstract Data Type
+-> Everybody has a different definition, but a class/object
+-> CRUD
+-> Representation & Operation
+-> "data do things with data"
+
+Example:
+
+Thinking about a 'Pokemon' class >> Represent all the pokemons
+We catch a 'squirtle' object >> A abstract pokemon
+
+
+In resume:
+Class helps to make cleans Program.cs, minimize informations on the desk.
