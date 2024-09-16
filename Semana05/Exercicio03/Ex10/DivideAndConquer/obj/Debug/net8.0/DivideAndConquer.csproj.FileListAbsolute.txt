@@ -1,0 +1,15 @@
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video10/DivideAndConquer/obj/Debug/net8.0/DivideAndConquer.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video10/DivideAndConquer/obj/Debug/net8.0/DivideAndConquer.AssemblyInfoInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video10/DivideAndConquer/obj/Debug/net8.0/DivideAndConquer.AssemblyInfo.cs
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video10/DivideAndConquer/obj/Debug/net8.0/DivideAndConquer.csproj.CoreCompileInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video10/DivideAndConquer/obj/Debug/net8.0/DivideAndConquer.sourcelink.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video10/DivideAndConquer/bin/Debug/net8.0/DivideAndConquer
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video10/DivideAndConquer/bin/Debug/net8.0/DivideAndConquer.deps.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video10/DivideAndConquer/bin/Debug/net8.0/DivideAndConquer.runtimeconfig.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video10/DivideAndConquer/bin/Debug/net8.0/DivideAndConquer.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video10/DivideAndConquer/bin/Debug/net8.0/DivideAndConquer.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video10/DivideAndConquer/obj/Debug/net8.0/DivideAndConquer.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video10/DivideAndConquer/obj/Debug/net8.0/refint/DivideAndConquer.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video10/DivideAndConquer/obj/Debug/net8.0/DivideAndConquer.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video10/DivideAndConquer/obj/Debug/net8.0/DivideAndConquer.genruntimeconfig.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video10/DivideAndConquer/obj/Debug/net8.0/ref/DivideAndConquer.dll
