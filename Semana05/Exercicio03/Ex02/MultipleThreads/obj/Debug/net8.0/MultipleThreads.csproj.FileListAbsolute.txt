@@ -1,0 +1,15 @@
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video02/MultipleThreads/bin/Debug/net8.0/MultipleThreads
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video02/MultipleThreads/bin/Debug/net8.0/MultipleThreads.deps.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video02/MultipleThreads/bin/Debug/net8.0/MultipleThreads.runtimeconfig.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video02/MultipleThreads/bin/Debug/net8.0/MultipleThreads.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video02/MultipleThreads/bin/Debug/net8.0/MultipleThreads.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video02/MultipleThreads/obj/Debug/net8.0/MultipleThreads.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video02/MultipleThreads/obj/Debug/net8.0/MultipleThreads.AssemblyInfoInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video02/MultipleThreads/obj/Debug/net8.0/MultipleThreads.AssemblyInfo.cs
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video02/MultipleThreads/obj/Debug/net8.0/MultipleThreads.csproj.CoreCompileInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video02/MultipleThreads/obj/Debug/net8.0/MultipleThreads.sourcelink.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video02/MultipleThreads/obj/Debug/net8.0/MultipleThreads.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video02/MultipleThreads/obj/Debug/net8.0/refint/MultipleThreads.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video02/MultipleThreads/obj/Debug/net8.0/MultipleThreads.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video02/MultipleThreads/obj/Debug/net8.0/MultipleThreads.genruntimeconfig.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video02/MultipleThreads/obj/Debug/net8.0/ref/MultipleThreads.dll
