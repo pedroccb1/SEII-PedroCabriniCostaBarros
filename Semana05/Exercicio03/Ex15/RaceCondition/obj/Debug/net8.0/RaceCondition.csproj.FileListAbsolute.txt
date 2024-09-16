@@ -1,0 +1,15 @@
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video15/RaceCondition/bin/Debug/net8.0/RaceCondition
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video15/RaceCondition/bin/Debug/net8.0/RaceCondition.deps.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video15/RaceCondition/bin/Debug/net8.0/RaceCondition.runtimeconfig.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video15/RaceCondition/bin/Debug/net8.0/RaceCondition.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video15/RaceCondition/bin/Debug/net8.0/RaceCondition.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video15/RaceCondition/obj/Debug/net8.0/RaceCondition.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video15/RaceCondition/obj/Debug/net8.0/RaceCondition.AssemblyInfoInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video15/RaceCondition/obj/Debug/net8.0/RaceCondition.AssemblyInfo.cs
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video15/RaceCondition/obj/Debug/net8.0/RaceCondition.csproj.CoreCompileInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video15/RaceCondition/obj/Debug/net8.0/RaceCondition.sourcelink.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video15/RaceCondition/obj/Debug/net8.0/RaceCondition.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video15/RaceCondition/obj/Debug/net8.0/refint/RaceCondition.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video15/RaceCondition/obj/Debug/net8.0/RaceCondition.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video15/RaceCondition/obj/Debug/net8.0/RaceCondition.genruntimeconfig.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video15/RaceCondition/obj/Debug/net8.0/ref/RaceCondition.dll

@@ -1,0 +1,15 @@
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video14/ProducerConsumerThreadSync/bin/Debug/net8.0/ProducerConsumerThreadSync
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video14/ProducerConsumerThreadSync/bin/Debug/net8.0/ProducerConsumerThreadSync.deps.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video14/ProducerConsumerThreadSync/bin/Debug/net8.0/ProducerConsumerThreadSync.runtimeconfig.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video14/ProducerConsumerThreadSync/bin/Debug/net8.0/ProducerConsumerThreadSync.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video14/ProducerConsumerThreadSync/bin/Debug/net8.0/ProducerConsumerThreadSync.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video14/ProducerConsumerThreadSync/obj/Debug/net8.0/ProducerConsumerThreadSync.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video14/ProducerConsumerThreadSync/obj/Debug/net8.0/ProducerConsumerThreadSync.AssemblyInfoInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video14/ProducerConsumerThreadSync/obj/Debug/net8.0/ProducerConsumerThreadSync.AssemblyInfo.cs
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video14/ProducerConsumerThreadSync/obj/Debug/net8.0/ProducerConsumerThreadSync.csproj.CoreCompileInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video14/ProducerConsumerThreadSync/obj/Debug/net8.0/ProducerConsumerThreadSync.sourcelink.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video14/ProducerConsumerThreadSync/obj/Debug/net8.0/ProducerConsumerThreadSync.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video14/ProducerConsumerThreadSync/obj/Debug/net8.0/refint/ProducerConsumerThreadSync.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video14/ProducerConsumerThreadSync/obj/Debug/net8.0/ProducerConsumerThreadSync.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video14/ProducerConsumerThreadSync/obj/Debug/net8.0/ProducerConsumerThreadSync.genruntimeconfig.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video14/ProducerConsumerThreadSync/obj/Debug/net8.0/ref/ProducerConsumerThreadSync.dll
