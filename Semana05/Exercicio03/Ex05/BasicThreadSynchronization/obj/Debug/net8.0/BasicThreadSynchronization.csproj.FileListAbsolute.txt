@@ -1,0 +1,15 @@
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video05/BasicThreadSynchronization/bin/Debug/net8.0/BasicThreadSynchronization
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video05/BasicThreadSynchronization/bin/Debug/net8.0/BasicThreadSynchronization.deps.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video05/BasicThreadSynchronization/bin/Debug/net8.0/BasicThreadSynchronization.runtimeconfig.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video05/BasicThreadSynchronization/bin/Debug/net8.0/BasicThreadSynchronization.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video05/BasicThreadSynchronization/bin/Debug/net8.0/BasicThreadSynchronization.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video05/BasicThreadSynchronization/obj/Debug/net8.0/BasicThreadSynchronization.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video05/BasicThreadSynchronization/obj/Debug/net8.0/BasicThreadSynchronization.AssemblyInfoInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video05/BasicThreadSynchronization/obj/Debug/net8.0/BasicThreadSynchronization.AssemblyInfo.cs
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video05/BasicThreadSynchronization/obj/Debug/net8.0/BasicThreadSynchronization.csproj.CoreCompileInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video05/BasicThreadSynchronization/obj/Debug/net8.0/BasicThreadSynchronization.sourcelink.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video05/BasicThreadSynchronization/obj/Debug/net8.0/BasicThreadSynchronization.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video05/BasicThreadSynchronization/obj/Debug/net8.0/refint/BasicThreadSynchronization.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video05/BasicThreadSynchronization/obj/Debug/net8.0/BasicThreadSynchronization.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video05/BasicThreadSynchronization/obj/Debug/net8.0/BasicThreadSynchronization.genruntimeconfig.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video05/BasicThreadSynchronization/obj/Debug/net8.0/ref/BasicThreadSynchronization.dll
