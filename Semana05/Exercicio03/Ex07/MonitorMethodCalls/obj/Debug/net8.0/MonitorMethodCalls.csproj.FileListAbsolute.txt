@@ -1,0 +1,15 @@
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video07/MonitorMethodCalls/bin/Debug/net8.0/MonitorMethodCalls
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video07/MonitorMethodCalls/bin/Debug/net8.0/MonitorMethodCalls.deps.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video07/MonitorMethodCalls/bin/Debug/net8.0/MonitorMethodCalls.runtimeconfig.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video07/MonitorMethodCalls/bin/Debug/net8.0/MonitorMethodCalls.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video07/MonitorMethodCalls/bin/Debug/net8.0/MonitorMethodCalls.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video07/MonitorMethodCalls/obj/Debug/net8.0/MonitorMethodCalls.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video07/MonitorMethodCalls/obj/Debug/net8.0/MonitorMethodCalls.AssemblyInfoInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video07/MonitorMethodCalls/obj/Debug/net8.0/MonitorMethodCalls.AssemblyInfo.cs
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video07/MonitorMethodCalls/obj/Debug/net8.0/MonitorMethodCalls.csproj.CoreCompileInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video07/MonitorMethodCalls/obj/Debug/net8.0/MonitorMethodCalls.sourcelink.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video07/MonitorMethodCalls/obj/Debug/net8.0/MonitorMethodCalls.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video07/MonitorMethodCalls/obj/Debug/net8.0/refint/MonitorMethodCalls.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video07/MonitorMethodCalls/obj/Debug/net8.0/MonitorMethodCalls.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video07/MonitorMethodCalls/obj/Debug/net8.0/MonitorMethodCalls.genruntimeconfig.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video07/MonitorMethodCalls/obj/Debug/net8.0/ref/MonitorMethodCalls.dll
