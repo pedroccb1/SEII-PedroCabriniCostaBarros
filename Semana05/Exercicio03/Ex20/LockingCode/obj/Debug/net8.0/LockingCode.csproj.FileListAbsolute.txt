@@ -1,0 +1,15 @@
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video20/LockingCode/bin/Debug/net8.0/LockingCode
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video20/LockingCode/bin/Debug/net8.0/LockingCode.deps.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video20/LockingCode/bin/Debug/net8.0/LockingCode.runtimeconfig.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video20/LockingCode/bin/Debug/net8.0/LockingCode.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video20/LockingCode/bin/Debug/net8.0/LockingCode.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video20/LockingCode/obj/Debug/net8.0/LockingCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video20/LockingCode/obj/Debug/net8.0/LockingCode.AssemblyInfoInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video20/LockingCode/obj/Debug/net8.0/LockingCode.AssemblyInfo.cs
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video20/LockingCode/obj/Debug/net8.0/LockingCode.csproj.CoreCompileInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video20/LockingCode/obj/Debug/net8.0/LockingCode.sourcelink.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video20/LockingCode/obj/Debug/net8.0/LockingCode.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video20/LockingCode/obj/Debug/net8.0/refint/LockingCode.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video20/LockingCode/obj/Debug/net8.0/LockingCode.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video20/LockingCode/obj/Debug/net8.0/LockingCode.genruntimeconfig.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video20/LockingCode/obj/Debug/net8.0/ref/LockingCode.dll

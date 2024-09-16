@@ -1,0 +1,15 @@
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video17/LockOnObject/obj/Debug/net8.0/LockOnObject.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video17/LockOnObject/obj/Debug/net8.0/LockOnObject.AssemblyInfoInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video17/LockOnObject/obj/Debug/net8.0/LockOnObject.AssemblyInfo.cs
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video17/LockOnObject/obj/Debug/net8.0/LockOnObject.csproj.CoreCompileInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video17/LockOnObject/obj/Debug/net8.0/LockOnObject.sourcelink.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video17/LockOnObject/bin/Debug/net8.0/LockOnObject
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video17/LockOnObject/bin/Debug/net8.0/LockOnObject.deps.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video17/LockOnObject/bin/Debug/net8.0/LockOnObject.runtimeconfig.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video17/LockOnObject/bin/Debug/net8.0/LockOnObject.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video17/LockOnObject/bin/Debug/net8.0/LockOnObject.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video17/LockOnObject/obj/Debug/net8.0/LockOnObject.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video17/LockOnObject/obj/Debug/net8.0/refint/LockOnObject.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video17/LockOnObject/obj/Debug/net8.0/LockOnObject.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video17/LockOnObject/obj/Debug/net8.0/LockOnObject.genruntimeconfig.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana05/Exercicio03/Video17/LockOnObject/obj/Debug/net8.0/ref/LockOnObject.dll
