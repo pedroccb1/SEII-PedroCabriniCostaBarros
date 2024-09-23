@@ -1,0 +1,15 @@
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video02/SynchronousServer/obj/Debug/net8.0/SynchronousServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video02/SynchronousServer/obj/Debug/net8.0/SynchronousServer.AssemblyInfoInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video02/SynchronousServer/obj/Debug/net8.0/SynchronousServer.AssemblyInfo.cs
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video02/SynchronousServer/obj/Debug/net8.0/SynchronousServer.csproj.CoreCompileInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video02/SynchronousServer/obj/Debug/net8.0/SynchronousServer.sourcelink.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video02/SynchronousServer/bin/Debug/net8.0/SynchronousServer
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video02/SynchronousServer/bin/Debug/net8.0/SynchronousServer.deps.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video02/SynchronousServer/bin/Debug/net8.0/SynchronousServer.runtimeconfig.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video02/SynchronousServer/bin/Debug/net8.0/SynchronousServer.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video02/SynchronousServer/bin/Debug/net8.0/SynchronousServer.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video02/SynchronousServer/obj/Debug/net8.0/SynchronousServer.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video02/SynchronousServer/obj/Debug/net8.0/refint/SynchronousServer.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video02/SynchronousServer/obj/Debug/net8.0/SynchronousServer.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video02/SynchronousServer/obj/Debug/net8.0/SynchronousServer.genruntimeconfig.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video02/SynchronousServer/obj/Debug/net8.0/ref/SynchronousServer.dll
