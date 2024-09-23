@@ -1,0 +1,15 @@
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio03/Video02/Server/bin/Debug/net8.0/Server
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio03/Video02/Server/bin/Debug/net8.0/Server.deps.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio03/Video02/Server/bin/Debug/net8.0/Server.runtimeconfig.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio03/Video02/Server/bin/Debug/net8.0/Server.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio03/Video02/Server/bin/Debug/net8.0/Server.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio03/Video02/Server/obj/Debug/net8.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio03/Video02/Server/obj/Debug/net8.0/Server.AssemblyInfoInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio03/Video02/Server/obj/Debug/net8.0/Server.AssemblyInfo.cs
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio03/Video02/Server/obj/Debug/net8.0/Server.csproj.CoreCompileInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio03/Video02/Server/obj/Debug/net8.0/Server.sourcelink.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio03/Video02/Server/obj/Debug/net8.0/Server.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio03/Video02/Server/obj/Debug/net8.0/refint/Server.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio03/Video02/Server/obj/Debug/net8.0/Server.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio03/Video02/Server/obj/Debug/net8.0/Server.genruntimeconfig.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio03/Video02/Server/obj/Debug/net8.0/ref/Server.dll
