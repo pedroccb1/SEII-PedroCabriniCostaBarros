@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video03/AsynchronousServer/AsynchronousServer.csproj": {}
+  },
+  "projects": {
+    "/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video03/AsynchronousServer/AsynchronousServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video03/AsynchronousServer/AsynchronousServer.csproj",
+        "projectName": "AsynchronousServer",
+        "projectPath": "/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video03/AsynchronousServer/AsynchronousServer.csproj",
+        "packagesPath": "/home/marco/.nuget/packages/",
+        "outputPath": "/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video03/AsynchronousServer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/marco/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

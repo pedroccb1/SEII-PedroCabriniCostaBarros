@@ -1,0 +1,15 @@
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video04/AsynchronousClient/bin/Debug/net8.0/AsynchronousClient
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video04/AsynchronousClient/bin/Debug/net8.0/AsynchronousClient.deps.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video04/AsynchronousClient/bin/Debug/net8.0/AsynchronousClient.runtimeconfig.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video04/AsynchronousClient/bin/Debug/net8.0/AsynchronousClient.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video04/AsynchronousClient/bin/Debug/net8.0/AsynchronousClient.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video04/AsynchronousClient/obj/Debug/net8.0/AsynchronousClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video04/AsynchronousClient/obj/Debug/net8.0/AsynchronousClient.AssemblyInfoInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video04/AsynchronousClient/obj/Debug/net8.0/AsynchronousClient.AssemblyInfo.cs
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video04/AsynchronousClient/obj/Debug/net8.0/AsynchronousClient.csproj.CoreCompileInputs.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video04/AsynchronousClient/obj/Debug/net8.0/AsynchronousClient.sourcelink.json
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video04/AsynchronousClient/obj/Debug/net8.0/AsynchronousClient.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video04/AsynchronousClient/obj/Debug/net8.0/refint/AsynchronousClient.dll
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video04/AsynchronousClient/obj/Debug/net8.0/AsynchronousClient.pdb
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video04/AsynchronousClient/obj/Debug/net8.0/AsynchronousClient.genruntimeconfig.cache
+/home/marco/SEII/SEII-MarcoTulioVilelaFonseca/Semana06/Exercicio02/Video04/AsynchronousClient/obj/Debug/net8.0/ref/AsynchronousClient.dll
