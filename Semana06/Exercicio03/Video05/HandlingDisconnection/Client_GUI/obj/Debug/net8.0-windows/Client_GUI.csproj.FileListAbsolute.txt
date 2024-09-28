@@ -1,0 +1,17 @@
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video05\HandlingDisconnection\Client_GUI\bin\Debug\net8.0-windows\Client_GUI.exe
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video05\HandlingDisconnection\Client_GUI\bin\Debug\net8.0-windows\Client_GUI.deps.json
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video05\HandlingDisconnection\Client_GUI\bin\Debug\net8.0-windows\Client_GUI.runtimeconfig.json
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video05\HandlingDisconnection\Client_GUI\bin\Debug\net8.0-windows\Client_GUI.dll
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video05\HandlingDisconnection\Client_GUI\bin\Debug\net8.0-windows\Client_GUI.pdb
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video05\HandlingDisconnection\Client_GUI\obj\Debug\net8.0-windows\Client_GUI.Form1.resources
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video05\HandlingDisconnection\Client_GUI\obj\Debug\net8.0-windows\Client_GUI.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video05\HandlingDisconnection\Client_GUI\obj\Debug\net8.0-windows\Client_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video05\HandlingDisconnection\Client_GUI\obj\Debug\net8.0-windows\Client_GUI.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video05\HandlingDisconnection\Client_GUI\obj\Debug\net8.0-windows\Client_GUI.AssemblyInfo.cs
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video05\HandlingDisconnection\Client_GUI\obj\Debug\net8.0-windows\Client_GUI.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video05\HandlingDisconnection\Client_GUI\obj\Debug\net8.0-windows\Client_GUI.sourcelink.json
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video05\HandlingDisconnection\Client_GUI\obj\Debug\net8.0-windows\Client_GUI.dll
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video05\HandlingDisconnection\Client_GUI\obj\Debug\net8.0-windows\refint\Client_GUI.dll
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video05\HandlingDisconnection\Client_GUI\obj\Debug\net8.0-windows\Client_GUI.pdb
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video05\HandlingDisconnection\Client_GUI\obj\Debug\net8.0-windows\Client_GUI.genruntimeconfig.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video05\HandlingDisconnection\Client_GUI\obj\Debug\net8.0-windows\ref\Client_GUI.dll
