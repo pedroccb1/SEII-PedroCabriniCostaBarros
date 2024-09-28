@@ -1,0 +1,17 @@
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video06\ReceivePastBufferSize\Text Client\bin\Debug\net8.0-windows\Text Client.exe
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video06\ReceivePastBufferSize\Text Client\bin\Debug\net8.0-windows\Text Client.deps.json
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video06\ReceivePastBufferSize\Text Client\bin\Debug\net8.0-windows\Text Client.runtimeconfig.json
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video06\ReceivePastBufferSize\Text Client\bin\Debug\net8.0-windows\Text Client.dll
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video06\ReceivePastBufferSize\Text Client\bin\Debug\net8.0-windows\Text Client.pdb
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video06\ReceivePastBufferSize\Text Client\obj\Debug\net8.0-windows\Text_Client.Form1.resources
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video06\ReceivePastBufferSize\Text Client\obj\Debug\net8.0-windows\Text Client.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video06\ReceivePastBufferSize\Text Client\obj\Debug\net8.0-windows\Text Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video06\ReceivePastBufferSize\Text Client\obj\Debug\net8.0-windows\Text Client.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video06\ReceivePastBufferSize\Text Client\obj\Debug\net8.0-windows\Text Client.AssemblyInfo.cs
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video06\ReceivePastBufferSize\Text Client\obj\Debug\net8.0-windows\Text Client.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video06\ReceivePastBufferSize\Text Client\obj\Debug\net8.0-windows\Text Client.sourcelink.json
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video06\ReceivePastBufferSize\Text Client\obj\Debug\net8.0-windows\Text Client.dll
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video06\ReceivePastBufferSize\Text Client\obj\Debug\net8.0-windows\refint\Text Client.dll
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video06\ReceivePastBufferSize\Text Client\obj\Debug\net8.0-windows\Text Client.pdb
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video06\ReceivePastBufferSize\Text Client\obj\Debug\net8.0-windows\Text Client.genruntimeconfig.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video06\ReceivePastBufferSize\Text Client\obj\Debug\net8.0-windows\ref\Text Client.dll
