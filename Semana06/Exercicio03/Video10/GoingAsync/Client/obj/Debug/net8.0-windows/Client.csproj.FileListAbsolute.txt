@@ -1,0 +1,17 @@
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Client\bin\Debug\net8.0-windows\Client.exe
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Client\bin\Debug\net8.0-windows\Client.deps.json
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Client\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Client\bin\Debug\net8.0-windows\Client.dll
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Client\bin\Debug\net8.0-windows\Client.pdb
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Client\obj\Debug\net8.0-windows\Client.Form1.resources
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Client\obj\Debug\net8.0-windows\Client.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Client\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Client\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Client\obj\Debug\net8.0-windows\Client.AssemblyInfo.cs
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Client\obj\Debug\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Client\obj\Debug\net8.0-windows\Client.sourcelink.json
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Client\obj\Debug\net8.0-windows\Client.dll
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Client\obj\Debug\net8.0-windows\refint\Client.dll
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Client\obj\Debug\net8.0-windows\Client.pdb
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Client\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Client\obj\Debug\net8.0-windows\ref\Client.dll
