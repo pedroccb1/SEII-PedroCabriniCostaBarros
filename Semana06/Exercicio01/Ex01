@@ -1,1 +1,8 @@
+1) Qual o limite de bytes a serem enviados por pacotes TCP e UDP?
+O tamanho máximo de um pacote TCP ou UDP é limitado pelo MTU (Unidade Máxima de Transmissão), que geralmente é em torno de 1500 bytes para Ethernet. No entanto, com cabeçalhos TCP/UDP e IP, o payload útil é menor, ficando por volta de 1460 bytes no TCP.
 
+2) Como um arquivo grande pode ser transmitido via internet?
+Arquivos grandes são divididos em pacotes menores para transmissão. Esses pacotes são enviados individualmente e, no destino, são reagrupados para formar o arquivo completo.
+
+3) Qual a diferença entre as implementações TCP e UDP para esse problema?
+O TCP garante a entrega de todos os pacotes na ordem correta e sem erros, com retransmissão em caso de perda. Já o UDP não garante ordem nem entrega dos pacotes, sendo mais rápido, mas menos confiável para transmissão de arquivos grandes.
