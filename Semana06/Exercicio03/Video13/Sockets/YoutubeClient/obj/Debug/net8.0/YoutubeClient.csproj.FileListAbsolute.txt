@@ -1,0 +1,15 @@
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video13\Sockets\YoutubeClient\bin\Debug\net8.0\YoutubeClient.exe
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video13\Sockets\YoutubeClient\bin\Debug\net8.0\YoutubeClient.deps.json
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video13\Sockets\YoutubeClient\bin\Debug\net8.0\YoutubeClient.runtimeconfig.json
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video13\Sockets\YoutubeClient\bin\Debug\net8.0\YoutubeClient.dll
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video13\Sockets\YoutubeClient\bin\Debug\net8.0\YoutubeClient.pdb
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video13\Sockets\YoutubeClient\obj\Debug\net8.0\YoutubeClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video13\Sockets\YoutubeClient\obj\Debug\net8.0\YoutubeClient.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video13\Sockets\YoutubeClient\obj\Debug\net8.0\YoutubeClient.AssemblyInfo.cs
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video13\Sockets\YoutubeClient\obj\Debug\net8.0\YoutubeClient.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video13\Sockets\YoutubeClient\obj\Debug\net8.0\YoutubeClient.sourcelink.json
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video13\Sockets\YoutubeClient\obj\Debug\net8.0\YoutubeClient.dll
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video13\Sockets\YoutubeClient\obj\Debug\net8.0\refint\YoutubeClient.dll
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video13\Sockets\YoutubeClient\obj\Debug\net8.0\YoutubeClient.pdb
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video13\Sockets\YoutubeClient\obj\Debug\net8.0\YoutubeClient.genruntimeconfig.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video13\Sockets\YoutubeClient\obj\Debug\net8.0\ref\YoutubeClient.dll
