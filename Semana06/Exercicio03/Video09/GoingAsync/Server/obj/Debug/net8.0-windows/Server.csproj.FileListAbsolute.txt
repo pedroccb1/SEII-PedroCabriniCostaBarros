@@ -1,0 +1,17 @@
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Server\bin\Debug\net8.0-windows\Server.exe
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Server\bin\Debug\net8.0-windows\Server.deps.json
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Server\bin\Debug\net8.0-windows\Server.dll
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Server\bin\Debug\net8.0-windows\Server.pdb
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Server\obj\Debug\net8.0-windows\Server.Form1.resources
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Server\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Server\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Server\obj\Debug\net8.0-windows\Server.sourcelink.json
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Server\obj\Debug\net8.0-windows\Server.dll
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Server\obj\Debug\net8.0-windows\refint\Server.dll
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Server\obj\Debug\net8.0-windows\Server.pdb
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video09\GoingAsync\Server\obj\Debug\net8.0-windows\ref\Server.dll

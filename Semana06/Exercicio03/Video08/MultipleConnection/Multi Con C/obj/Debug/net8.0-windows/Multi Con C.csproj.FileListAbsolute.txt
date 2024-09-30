@@ -1,0 +1,17 @@
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video08\MultipleConnection\Multi Con C\bin\Debug\net8.0-windows\Multi Con C.exe
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video08\MultipleConnection\Multi Con C\bin\Debug\net8.0-windows\Multi Con C.deps.json
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video08\MultipleConnection\Multi Con C\bin\Debug\net8.0-windows\Multi Con C.runtimeconfig.json
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video08\MultipleConnection\Multi Con C\bin\Debug\net8.0-windows\Multi Con C.dll
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video08\MultipleConnection\Multi Con C\bin\Debug\net8.0-windows\Multi Con C.pdb
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video08\MultipleConnection\Multi Con C\obj\Debug\net8.0-windows\Multi_Con_C.Form1.resources
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video08\MultipleConnection\Multi Con C\obj\Debug\net8.0-windows\Multi Con C.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video08\MultipleConnection\Multi Con C\obj\Debug\net8.0-windows\Multi Con C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video08\MultipleConnection\Multi Con C\obj\Debug\net8.0-windows\Multi Con C.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video08\MultipleConnection\Multi Con C\obj\Debug\net8.0-windows\Multi Con C.AssemblyInfo.cs
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video08\MultipleConnection\Multi Con C\obj\Debug\net8.0-windows\Multi Con C.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video08\MultipleConnection\Multi Con C\obj\Debug\net8.0-windows\Multi Con C.sourcelink.json
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video08\MultipleConnection\Multi Con C\obj\Debug\net8.0-windows\Multi Con C.dll
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video08\MultipleConnection\Multi Con C\obj\Debug\net8.0-windows\refint\Multi Con C.dll
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video08\MultipleConnection\Multi Con C\obj\Debug\net8.0-windows\Multi Con C.pdb
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video08\MultipleConnection\Multi Con C\obj\Debug\net8.0-windows\Multi Con C.genruntimeconfig.cache
+C:\Users\marco\Desktop\SEII\SEII-MarcoTulioVilelaFonseca\Semana06\Exercicio03\Video08\MultipleConnection\Multi Con C\obj\Debug\net8.0-windows\ref\Multi Con C.dll
