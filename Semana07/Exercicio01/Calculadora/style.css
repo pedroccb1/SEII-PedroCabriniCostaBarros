@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wdth,wght@62.5,200..900&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    outline: none;
+    font-family: 'Inconsolata', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(36, 37, 37);
+}
+input {
+    margin: 2px;
+    border: none;
+    border-radius: 3px;
+}
+input[type=text] {
+    width: calc(100% - 4px);
+    height: 90px;
+}
+input[type=button] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 75px;
+    height: 100px;
+    transition: ease 0.2s;
+    cursor: pointer;
+}
+div#calculator {
+    box-shadow: 10px 10px 10px black;
+}
+div#calculator div{
+    display: flex;
+}
+div#calculator div input:nth-child(4){
+    background-color: gray;
+}
+div#fourth input:nth-child(1) {
+    background: rgb(212, 13, 13);    
+}
+div#fourth input:nth-child(3) {
+    background: rgb(221, 221, 24);    
+}
+input[type=button]:hover {
+    filter: brightness(50%);
+}
+input[type=button]:active {
+    transform: scale(0.9);
+}

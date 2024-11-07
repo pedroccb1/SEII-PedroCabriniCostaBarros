@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script language="JavaScript"src="calculator.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <form action="" name="calc">
+        <div id="calculator">
+            <input type="text" id="visor" name="visor">
+            <div id="first">
+                <input type="button" value="7" class="button board" onclick="button(value)">
+                <input type="button" value="8" class="button board" onclick="button(value)">
+                <input type="button" value="9" class="button board" onclick="button(value)">
+                <input type="button" value="/" class="button board" onclick="button(value)">
+            </div>
+            <div id="second">
+                <input type="button" value="6" class="button board" onclick="button(value)">
+                <input type="button" value="5" class="button board" onclick="button(value)">
+                <input type="button" value="4" class="button board" onclick="button(value)">
+                <input type="button" value="*" class="button board" onclick="button(value)">
+            </div>
+            <div id="third">
+                <input type="button" value="3" class="button board" onclick="button(value)">
+                <input type="button" value="2" class="button board" onclick="button(value)">
+                <input type="button" value="1" class="button board" onclick="button(value)">
+                <input type="button" value="-" class="button board" onclick="button(value)">
+            </div>
+            <div id="fourth">
+                <input type="button" value="C" class="button board" onclick="reset()">
+                <input type="button" value="0" class="button board" onclick="button(value)">
+                <input type="button" value="=" class="button board" onclick="solve()">
+                <input type="button" value="+" class="button board" onclick="button(value)">
+            </div>
+        </div>
+    </form>
+</body>
+</html>
