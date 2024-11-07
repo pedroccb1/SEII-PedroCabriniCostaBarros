@@ -1,0 +1,11 @@
+Design patterns são soluções reutilizáveis para problemas comuns no desenvolvimento de software, especialmente ligados à Programação Orientada a Objetos (POO). Eles facilitam a criação de sistemas mais flexíveis, escaláveis e de fácil manutenção.
+
+Esses padrões são classificados em três categorias principais:
+
+- Criacionais: Simplificam a criação de objetos (ex: Singleton, Factory Method).
+
+- Estruturais: Ajudam na composição de classes e objetos (ex: Adapter, Composite).
+
+- Comportamentais: Definem como os objetos interagem (ex: Observer, Strategy).
+
+A UML, uma linguagem de modelagem padrão, é frequentemente usada para representar esses padrões visualmente, ajudando na comunicação e documentação do sistema. Aplicar design patterns melhora a colaboração e traz eficiência ao desenvolvimento.
